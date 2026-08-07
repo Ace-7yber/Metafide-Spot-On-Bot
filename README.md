@@ -1,11 +1,7 @@
-# Metafide-Spot-On-Bot
+Metafide-Spot-On-Bot
 Real-time hybrid ML trading signal backend built with Python, FastAPI, and Scikit-Learn. Integrates live Binance market data with a Random Forest Classifier, dynamic 7-2-1 spot price spreads, an automated feedback memory loop, and Metafide API authentication.
-Here is a beautifully formatted, clean, and ready-to-use **`README.md`** file for your GitHub repository. It fixes syntax errors (like missing line breaks in bash commands), uses standard GitHub Markdown badges, and applies crisp visual formatting to make your repository look top-tier.
 
-Copy and paste everything in the code block below directly into your **`README.md`** file:
-
-```markdown
-# 🧠 Smart Brain — ML Trading Bot & Signal API
+-🧠 Smart Brain — ML Trading Bot & Signal API
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-009688.svg)
@@ -14,18 +10,18 @@ Copy and paste everything in the code block below directly into your **`README.m
 
 A real-time hybrid Machine Learning backend designed to forecast short-term cryptocurrency price movements and output tactical entry/exit spot price spreads.
 
----
+-
 
-## 🚀 Quick Start Guide
+- 🚀 Quick Start Guide
 
-### 1. Prerequisites
+1. Prerequisites
 Ensure you have the following installed on your system:
 * **Python 3.9+**
 * **Pip** (Python package manager)
 
 ---
 
-### 2. Installation
+2. Installation
 
 Clone the repository and install the required dependencies:
 
